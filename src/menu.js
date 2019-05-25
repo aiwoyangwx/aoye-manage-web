@@ -11,8 +11,8 @@ var menus = [
     path:"/product",
     items: [
       { title: "分类管理", path: "/category" },
-      { title: "跑步机管理", path: "/runningmachine" },
       { title: "客户端版本", path: "/installer" },
+      { title: "跑步机管理", path: "/runningmachine" },
       { title: "升级计划（敬请期待）", path: "" },
       { title: "跑步记录（敬请期待）", path: "" },
     ]
